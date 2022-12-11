@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/kf-web/static/css/main.18a348f4.css",
+    "main.js": "/kf-web/static/js/main.2191f2e1.js",
+    "static/media/ceg.jpg": "/kf-web/static/media/ceg.2b98ffbc3675b73eb782.jpg",
+    "index.html": "/kf-web/index.html",
+    "main.18a348f4.css.map": "/kf-web/static/css/main.18a348f4.css.map",
+    "main.2191f2e1.js.map": "/kf-web/static/js/main.2191f2e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18a348f4.css",
+    "static/js/main.2191f2e1.js"
+  ]
+}
